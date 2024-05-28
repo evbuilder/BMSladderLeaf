@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BMSladder-rescue")(type "KiCad")(uri "${KIPRJMOD}/BMSladder-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "BMSladderLeaf-rescue")(type "KiCad")(uri "${KIPRJMOD}/BMSladderLeaf-rescue.kicad_sym")(options "")(descr ""))
+)
